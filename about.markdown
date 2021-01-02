@@ -6,4 +6,4 @@ permalink: /about/
 
 We are a young recruitment agnecy to provide top-quality IT consulting services for both private and public sector organizations. 
 
-[Write to us](email-to:hello@enterrecruitment.com)
+[Write to us](mailto:hello@enterrecruitment.com)
